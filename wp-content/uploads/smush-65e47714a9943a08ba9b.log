@@ -1,0 +1,990 @@
+[2021-11-17 06:48:44 : INFO] - Re_Smush_It_Task with attachment ID : 398, autocreated on : November 17, 2021 06:48:44 
+[2021-11-17 06:54:08 : INFO] - 
+ 
+[2021-11-17 06:54:08 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 06:54:08 +0000 on https://mattwestcott.com 
+[2021-11-17 06:54:08 : INFO] - WP: 5.8.2 
+[2021-11-17 06:54:08 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 06:54:08 : INFO] - MySQL: 5.5.5 
+[2021-11-17 06:54:08 : INFO] - WPLANG: en_AU 
+[2021-11-17 06:54:08 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 06:54:08 : INFO] - Outbound connections: N 
+[2021-11-17 06:54:08 : INFO] - safe_mode: 0 
+[2021-11-17 06:54:08 : INFO] - max_execution_time: 30 
+[2021-11-17 06:54:08 : INFO] - memory_limit: 256M (used: 22.7M | 2M) 
+[2021-11-17 06:54:08 : INFO] - multisite: N 
+[2021-11-17 06:54:08 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 06:54:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 06:54:08 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 06:54:08 
+[2021-11-17 06:54:08 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 06:54:08 : INFO] - Processing task with ID : 115, and type 'smush' 
+[2021-11-17 06:54:08 : INFO] - Re_Smush_It_Task with attachment ID : 398, autocreated on : November 17, 2021 06:48:44 
+[2021-11-17 06:54:08 : INFO] - 100 
+[2021-11-17 06:54:10 : INFO] - Backing up the original image - 2021/11/Cartoon-updraft-pre-smush-original.png 
+[2021-11-17 06:54:10 : INFO] - Re_Smush_It_Task with attachment ID : 398, autocreated on : November 17, 2021 06:48:44 
+[2021-11-17 06:54:10 : INFO] - 100 
+[2021-11-17 06:54:12 : INFO] - Re_Smush_It_Task with attachment ID : 398, autocreated on : November 17, 2021 06:48:44 
+[2021-11-17 06:54:12 : INFO] - 100 
+[2021-11-17 06:54:14 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/Cartoon.png.The file was compressed from 579.36 KB to 230.78 KB saving 60.17 percent using WP-Optimize 
+[2021-11-17 06:54:14 : INFO] - Completed processing task with ID : 115, and type 'smush' 
+[2021-11-17 06:54:14 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 06:54:14 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 06:54:14 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-17 06:54:14 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 06:54:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-17 06:59:18 : INFO] - Re_Smush_It_Task with attachment ID : 410, autocreated on : November 17, 2021 06:59:18 
+[2021-11-17 07:04:55 : INFO] - 
+ 
+[2021-11-17 07:04:55 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:04:55 +0000 on https://mattwestcott.com 
+[2021-11-17 07:04:55 : INFO] - WP: 5.8.2 
+[2021-11-17 07:04:55 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:04:55 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:04:55 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:04:55 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:04:55 : INFO] - Outbound connections: N 
+[2021-11-17 07:04:55 : INFO] - safe_mode: 0 
+[2021-11-17 07:04:55 : INFO] - max_execution_time: 30 
+[2021-11-17 07:04:55 : INFO] - memory_limit: 256M (used: 22.5M | 24M) 
+[2021-11-17 07:04:55 : INFO] - multisite: N 
+[2021-11-17 07:04:55 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:04:55 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:04:55 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:04:55 
+[2021-11-17 07:04:55 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:04:55 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2021-11-17 07:04:55 : INFO] - Re_Smush_It_Task with attachment ID : 410, autocreated on : November 17, 2021 06:59:18 
+[2021-11-17 07:04:55 : INFO] - 100 
+[2021-11-17 07:04:57 : INFO] - Backing up the original image - 2021/11/cropped-Cartoon-updraft-pre-smush-original.png 
+[2021-11-17 07:04:57 : INFO] - Re_Smush_It_Task with attachment ID : 410, autocreated on : November 17, 2021 06:59:18 
+[2021-11-17 07:04:57 : INFO] - 100 
+[2021-11-17 07:05:01 : INFO] - Re_Smush_It_Task with attachment ID : 410, autocreated on : November 17, 2021 06:59:18 
+[2021-11-17 07:05:01 : INFO] - 100 
+[2021-11-17 07:05:03 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-Cartoon.png.The file was compressed from 141.34 KB to 60.35 KB saving 57.3 percent using WP-Optimize 
+[2021-11-17 07:05:03 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2021-11-17 07:05:03 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:05:03 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:05:03 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-17 07:05:03 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:05:03 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-17 07:10:15 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:14:55 : INFO] - 
+ 
+[2021-11-17 07:14:55 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:14:55 +0000 on https://mattwestcott.com 
+[2021-11-17 07:14:55 : INFO] - WP: 5.8.2 
+[2021-11-17 07:14:55 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:14:55 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:14:55 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:14:55 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:14:55 : INFO] - Outbound connections: N 
+[2021-11-17 07:14:55 : INFO] - safe_mode: 0 
+[2021-11-17 07:14:55 : INFO] - max_execution_time: 30 
+[2021-11-17 07:14:55 : INFO] - memory_limit: 256M (used: 18.4M | 2M) 
+[2021-11-17 07:14:55 : INFO] - multisite: N 
+[2021-11-17 07:14:55 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:14:55 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:14:55 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:14:55 
+[2021-11-17 07:14:55 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:14:55 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2021-11-17 07:14:55 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:14:55 : INFO] - 100 
+[2021-11-17 07:14:58 : INFO] - Backing up the original image - 2020/10/cropped-blur-background-12-updraft-pre-smush-original.png 
+[2021-11-17 07:14:58 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:14:58 : INFO] - 100 
+[2021-11-17 07:14:59 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:14:59 : INFO] - 100 
+[2021-11-17 07:15:00 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:00 : INFO] - 100 
+[2021-11-17 07:15:02 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:02 : INFO] - 100 
+[2021-11-17 07:15:04 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:04 : INFO] - 100 
+[2021-11-17 07:15:07 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:07 : INFO] - 100 
+[2021-11-17 07:15:09 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:09 : INFO] - 100 
+[2021-11-17 07:15:11 : INFO] - Re_Smush_It_Task with attachment ID : 413, autocreated on : November 17, 2021 07:10:15 
+[2021-11-17 07:15:11 : INFO] - 100 
+[2021-11-17 07:15:12 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2020/10/cropped-blur-background-12.png.The file was compressed from 954.11 KB to 322.97 KB saving 66.15 percent using WP-Optimize 
+[2021-11-17 07:15:12 : INFO] - Completed processing task with ID : 117, and type 'smush' 
+[2021-11-17 07:15:12 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:15:12 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:15:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-17 07:15:12 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:15:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-17 07:16:48 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:04 : INFO] - 
+ 
+[2021-11-17 07:25:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:25:04 +0000 on https://mattwestcott.com 
+[2021-11-17 07:25:04 : INFO] - WP: 5.8.2 
+[2021-11-17 07:25:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:25:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:25:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:25:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:25:04 : INFO] - Outbound connections: N 
+[2021-11-17 07:25:04 : INFO] - safe_mode: 0 
+[2021-11-17 07:25:04 : INFO] - max_execution_time: 30 
+[2021-11-17 07:25:04 : INFO] - memory_limit: 256M (used: 18.4M | 20M) 
+[2021-11-17 07:25:04 : INFO] - multisite: N 
+[2021-11-17 07:25:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:25:04 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:25:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:25:04 
+[2021-11-17 07:25:04 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:25:04 : INFO] - Processing task with ID : 118, and type 'smush' 
+[2021-11-17 07:25:04 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:04 : INFO] - 100 
+[2021-11-17 07:25:06 : INFO] - Backing up the original image - 2020/10/cropped-IMG_7439_Facetune_11-08-2020-13-35-15-2-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:25:06 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:06 : INFO] - 100 
+[2021-11-17 07:25:08 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:08 : INFO] - 100 
+[2021-11-17 07:25:08 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:08 : INFO] - 100 
+[2021-11-17 07:25:10 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:10 : INFO] - 100 
+[2021-11-17 07:25:12 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:12 : INFO] - 100 
+[2021-11-17 07:25:14 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:14 : INFO] - 100 
+[2021-11-17 07:25:15 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:15 : INFO] - 100 
+[2021-11-17 07:25:17 : INFO] - Re_Smush_It_Task with attachment ID : 415, autocreated on : November 17, 2021 07:16:48 
+[2021-11-17 07:25:17 : INFO] - 100 
+[2021-11-17 07:25:18 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2020/10/cropped-IMG_7439_Facetune_11-08-2020-13-35-15-2.jpeg.The file was compressed from 145.52 KB to 140.30 KB saving 3.59 percent using WP-Optimize 
+[2021-11-17 07:25:18 : INFO] - Completed processing task with ID : 118, and type 'smush' 
+[2021-11-17 07:25:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:25:18 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:25:18 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-17 07:25:18 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:25:18 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-17 07:28:18 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:29:19 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:31:40 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:31:52 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:32:30 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:34:35 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:34:50 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:35:04 : INFO] - 
+ 
+[2021-11-17 07:35:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:35:04 +0000 on https://mattwestcott.com 
+[2021-11-17 07:35:04 : INFO] - WP: 5.8.2 
+[2021-11-17 07:35:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:35:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:35:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:35:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:35:04 : INFO] - Outbound connections: N 
+[2021-11-17 07:35:04 : INFO] - safe_mode: 0 
+[2021-11-17 07:35:04 : INFO] - max_execution_time: 30 
+[2021-11-17 07:35:04 : INFO] - memory_limit: 256M (used: 18.6M | 12M) 
+[2021-11-17 07:35:04 : INFO] - multisite: N 
+[2021-11-17 07:35:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:35:04 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:35:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:35:04 
+[2021-11-17 07:35:04 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:35:04 : INFO] - Processing task with ID : 119, and type 'smush' 
+[2021-11-17 07:35:04 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:04 : INFO] - 100 
+[2021-11-17 07:35:06 : INFO] - Backing up the original image - 2021/11/cropped-Cartoon-updraft-pre-smush-original.png 
+[2021-11-17 07:35:06 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:06 : INFO] - 100 
+[2021-11-17 07:35:08 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:08 : INFO] - 100 
+[2021-11-17 07:35:08 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:08 : INFO] - 100 
+[2021-11-17 07:35:10 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:10 : INFO] - 100 
+[2021-11-17 07:35:11 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:11 : INFO] - 100 
+[2021-11-17 07:35:14 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:14 : INFO] - 100 
+[2021-11-17 07:35:15 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:15 : INFO] - 100 
+[2021-11-17 07:35:16 : INFO] - Re_Smush_It_Task with attachment ID : 420, autocreated on : November 17, 2021 07:28:18 
+[2021-11-17 07:35:16 : INFO] - 100 
+[2021-11-17 07:35:17 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-Cartoon.png.The file was compressed from 399.23 KB to 164.29 KB saving 58.85 percent using WP-Optimize 
+[2021-11-17 07:35:17 : INFO] - Completed processing task with ID : 119, and type 'smush' 
+[2021-11-17 07:35:17 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2021-11-17 07:35:17 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:17 : INFO] - 100 
+[2021-11-17 07:35:19 : INFO] - Backing up the original image - 2020/10/cropped-cropped-IMG_7439_Facetune_11-08-2020-13-35-15-2-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:35:19 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:19 : INFO] - 100 
+[2021-11-17 07:35:20 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:20 : INFO] - 100 
+[2021-11-17 07:35:20 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:20 : INFO] - 100 
+[2021-11-17 07:35:21 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:21 : INFO] - 100 
+[2021-11-17 07:35:23 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:23 : INFO] - 100 
+[2021-11-17 07:35:24 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:24 : INFO] - 100 
+[2021-11-17 07:35:24 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:24 : INFO] - 100 
+[2021-11-17 07:35:26 : INFO] - Re_Smush_It_Task with attachment ID : 422, autocreated on : November 17, 2021 07:29:19 
+[2021-11-17 07:35:26 : INFO] - 100 
+[2021-11-17 07:35:27 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2020/10/cropped-cropped-IMG_7439_Facetune_11-08-2020-13-35-15-2.jpeg.The file was compressed from 41.63 KB to 40.09 KB saving 3.69 percent using WP-Optimize 
+[2021-11-17 07:35:27 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2021-11-17 07:35:27 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:35:27 
+[2021-11-17 07:35:27 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2021-11-17 07:35:27 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:27 : INFO] - 100 
+[2021-11-17 07:35:29 : INFO] - Backing up the original image - 2021/11/97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:35:29 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:29 : INFO] - 100 
+[2021-11-17 07:35:29 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:29 : INFO] - 100 
+[2021-11-17 07:35:30 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:30 : INFO] - 100 
+[2021-11-17 07:35:31 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:31 : INFO] - 100 
+[2021-11-17 07:35:33 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:33 : INFO] - 100 
+[2021-11-17 07:35:37 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:37 : INFO] - 100 
+[2021-11-17 07:35:37 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : November 17, 2021 07:35:37 
+[2021-11-17 07:35:39 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:39 : INFO] - 100 
+[2021-11-17 07:35:40 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:40 : INFO] - 100 
+[2021-11-17 07:35:40 : INFO] - Re_Smush_It_Task with attachment ID : 424, autocreated on : November 17, 2021 07:31:40 
+[2021-11-17 07:35:40 : INFO] - 100 
+[2021-11-17 07:35:41 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc.jpeg.The file was compressed from 169.09 KB to 160.97 KB saving 4.8 percent using WP-Optimize 
+[2021-11-17 07:35:41 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2021-11-17 07:35:41 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2021-11-17 07:35:41 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:41 : INFO] - 100 
+[2021-11-17 07:35:42 : INFO] - Backing up the original image - 2021/11/cropped-97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:35:42 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:42 : INFO] - 100 
+[2021-11-17 07:35:43 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:43 : INFO] - 100 
+[2021-11-17 07:35:44 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:44 : INFO] - 100 
+[2021-11-17 07:35:45 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:45 : INFO] - 100 
+[2021-11-17 07:35:46 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:46 : INFO] - 100 
+[2021-11-17 07:35:47 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:47 : INFO] - 100 
+[2021-11-17 07:35:49 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:49 : INFO] - 100 
+[2021-11-17 07:35:50 : INFO] - Re_Smush_It_Task with attachment ID : 425, autocreated on : November 17, 2021 07:31:52 
+[2021-11-17 07:35:50 : INFO] - 100 
+[2021-11-17 07:35:51 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc.jpeg.The file was compressed from 87.89 KB to 83.85 KB saving 4.6 percent using WP-Optimize 
+[2021-11-17 07:35:51 : INFO] - Completed processing task with ID : 122, and type 'smush' 
+[2021-11-17 07:35:51 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:35:51 
+[2021-11-17 07:35:51 : INFO] - Processing task with ID : 123, and type 'smush' 
+[2021-11-17 07:35:51 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:51 : INFO] - 100 
+[2021-11-17 07:35:54 : INFO] - Backing up the original image - 2021/11/2185257_m-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:35:54 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:54 : INFO] - 100 
+[2021-11-17 07:35:54 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:54 : INFO] - 100 
+[2021-11-17 07:35:55 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:55 : INFO] - 100 
+[2021-11-17 07:35:56 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:56 : INFO] - 100 
+[2021-11-17 07:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:35:58 : INFO] - 100 
+[2021-11-17 07:36:00 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:36:00 : INFO] - 100 
+[2021-11-17 07:36:02 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:36:02 : INFO] - 100 
+[2021-11-17 07:36:03 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:36:03 : INFO] - 100 
+[2021-11-17 07:36:03 : INFO] - Re_Smush_It_Task with attachment ID : 427, autocreated on : November 17, 2021 07:32:30 
+[2021-11-17 07:36:03 : INFO] - 100 
+[2021-11-17 07:36:05 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/2185257_m.jpeg.The file was compressed from 1.41 MB to 1.31 MB saving 7.52 percent using WP-Optimize 
+[2021-11-17 07:36:05 : INFO] - Completed processing task with ID : 123, and type 'smush' 
+[2021-11-17 07:36:05 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2021-11-17 07:36:05 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:05 : INFO] - 100 
+[2021-11-17 07:36:10 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:36:11 : INFO] - Backing up the original image - 2021/11/e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:36:11 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:11 : INFO] - 100 
+[2021-11-17 07:36:20 : INFO] - Task with ID 124 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-11-17 07:36:20 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/bc04cf1ef7072fcd3e356cd40eac46b4\/_src_e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-300x200.jpeg","dest":"http:\/\/par2.static.resmush.it\/bc04cf1ef7072fcd3e356cd40eac46b4\/e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-300x200.jpeg","src_size":12867,"dest_size":12450,"percent":3,"output":"json","expires":"Wed, 17 Nov 2021 08:41:15 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-11-17 07:36:20 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:20 : INFO] - 100 
+[2021-11-17 07:36:20 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:20 : INFO] - 100 
+[2021-11-17 07:36:22 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:22 : INFO] - 100 
+[2021-11-17 07:36:24 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:24 : INFO] - 100 
+[2021-11-17 07:36:25 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:25 : INFO] - 100 
+[2021-11-17 07:36:27 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:27 : INFO] - 100 
+[2021-11-17 07:36:28 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:28 : INFO] - 100 
+[2021-11-17 07:36:29 : INFO] - Re_Smush_It_Task with attachment ID : 428, autocreated on : November 17, 2021 07:34:35 
+[2021-11-17 07:36:29 : INFO] - 100 
+[2021-11-17 07:36:31 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/e21751d2-bf2c-4bfe-ba26-846a5d5d1c27.jpeg.The file was compressed from 350.98 KB to 335.76 KB saving 4.34 percent using WP-Optimize 
+[2021-11-17 07:36:31 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2021-11-17 07:36:31 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:36:31 
+[2021-11-17 07:36:31 : INFO] - Processing task with ID : 125, and type 'smush' 
+[2021-11-17 07:36:31 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:31 : INFO] - 100 
+[2021-11-17 07:36:33 : INFO] - Backing up the original image - 2021/11/cropped-e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-1-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:36:33 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:33 : INFO] - 100 
+[2021-11-17 07:36:33 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:33 : INFO] - 100 
+[2021-11-17 07:36:34 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:34 : INFO] - 100 
+[2021-11-17 07:36:35 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:35 : INFO] - 100 
+[2021-11-17 07:36:36 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:36 : INFO] - 100 
+[2021-11-17 07:36:38 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:38 : INFO] - 100 
+[2021-11-17 07:36:39 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:39 : INFO] - 100 
+[2021-11-17 07:36:40 : INFO] - Re_Smush_It_Task with attachment ID : 429, autocreated on : November 17, 2021 07:34:50 
+[2021-11-17 07:36:40 : INFO] - 100 
+[2021-11-17 07:36:41 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-1.jpeg.The file was compressed from 151.28 KB to 147.38 KB saving 2.58 percent using WP-Optimize 
+[2021-11-17 07:36:41 : INFO] - Completed processing task with ID : 125, and type 'smush' 
+[2021-11-17 07:36:41 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:36:41 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:36:41 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2021-11-17 07:36:41 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:37:39 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:38:49 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:39:56 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : November 17, 2021 07:39:56 
+[2021-11-17 07:40:07 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : November 17, 2021 07:40:07 
+[2021-11-17 07:40:46 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:41:07 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:41:33 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:45:04 : INFO] - 
+ 
+[2021-11-17 07:45:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:45:04 +0000 on https://mattwestcott.com 
+[2021-11-17 07:45:04 : INFO] - WP: 5.8.2 
+[2021-11-17 07:45:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:45:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:45:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:45:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:45:04 : INFO] - Outbound connections: N 
+[2021-11-17 07:45:04 : INFO] - safe_mode: 0 
+[2021-11-17 07:45:04 : INFO] - max_execution_time: 30 
+[2021-11-17 07:45:04 : INFO] - memory_limit: 256M (used: 18.6M | 10M) 
+[2021-11-17 07:45:04 : INFO] - multisite: N 
+[2021-11-17 07:45:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:45:04 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:45:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:45:04 
+[2021-11-17 07:45:04 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:45:04 : INFO] - Processing task with ID : 126, and type 'smush' 
+[2021-11-17 07:45:04 : INFO] - Task with ID 126 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-11-17 07:45:04 : INFO] - Processing task with ID : 127, and type 'smush' 
+[2021-11-17 07:45:04 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:04 : INFO] - 100 
+[2021-11-17 07:45:06 : INFO] - Backing up the original image - 2021/11/cropped-97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc-1-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:45:06 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:06 : INFO] - 100 
+[2021-11-17 07:45:06 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:06 : INFO] - 100 
+[2021-11-17 07:45:07 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:07 : INFO] - 100 
+[2021-11-17 07:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:11 : INFO] - 100 
+[2021-11-17 07:45:12 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:12 : INFO] - 100 
+[2021-11-17 07:45:14 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:14 : INFO] - 100 
+[2021-11-17 07:45:15 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:15 : INFO] - 100 
+[2021-11-17 07:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : November 17, 2021 07:36:10 
+[2021-11-17 07:45:16 : INFO] - 100 
+[2021-11-17 07:45:17 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-97ee3f2a-2f9b-4f73-8c9f-57c3d7dc8edc-1.jpeg.The file was compressed from 87.89 KB to 83.85 KB saving 4.6 percent using WP-Optimize 
+[2021-11-17 07:45:17 : INFO] - Completed processing task with ID : 127, and type 'smush' 
+[2021-11-17 07:45:17 : INFO] - Processing task with ID : 128, and type 'smush' 
+[2021-11-17 07:45:17 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:17 : INFO] - 100 
+[2021-11-17 07:45:21 : INFO] - Backing up the original image - 2021/11/11-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:45:21 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:21 : INFO] - 100 
+[2021-11-17 07:45:21 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:21 : INFO] - 100 
+[2021-11-17 07:45:22 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:22 : INFO] - 100 
+[2021-11-17 07:45:23 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:23 : INFO] - 100 
+[2021-11-17 07:45:26 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:26 : INFO] - 100 
+[2021-11-17 07:45:27 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:27 : INFO] - 100 
+[2021-11-17 07:45:29 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:29 : INFO] - 100 
+[2021-11-17 07:45:32 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:32 : INFO] - 100 
+[2021-11-17 07:45:40 : INFO] - Task with ID 128 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-11-17 07:45:40 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/247f793afefc62009a80ee78a5d507dc\/_src_11-300x300.jpeg","dest":"http:\/\/par2.static.resmush.it\/247f793afefc62009a80ee78a5d507dc\/11-300x300.jpeg","src_size":16376,"dest_size":15629,"percent":5,"output":"json","expires":"Wed, 17 Nov 2021 08:50:35 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-11-17 07:45:40 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : November 17, 2021 07:37:39 
+[2021-11-17 07:45:40 : INFO] - 100 
+[2021-11-17 07:45:41 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/11.jpeg.The file was compressed from 988.11 KB to 923.39 KB saving 6.55 percent using WP-Optimize 
+[2021-11-17 07:45:41 : INFO] - Completed processing task with ID : 128, and type 'smush' 
+[2021-11-17 07:45:41 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:45:41 
+[2021-11-17 07:45:41 : INFO] - Processing task with ID : 129, and type 'smush' 
+[2021-11-17 07:45:41 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:41 : INFO] - 100 
+[2021-11-17 07:45:44 : INFO] - Backing up the original image - 2021/11/11-1-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:45:44 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:44 : INFO] - 100 
+[2021-11-17 07:45:45 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:45 : INFO] - 100 
+[2021-11-17 07:45:45 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:45 : INFO] - 100 
+[2021-11-17 07:45:47 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:47 : INFO] - 100 
+[2021-11-17 07:45:52 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:52 : INFO] - 100 
+[2021-11-17 07:45:54 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:54 : INFO] - 100 
+[2021-11-17 07:45:56 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:45:56 : INFO] - 100 
+[2021-11-17 07:46:01 : INFO] - Task with ID 129 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-11-17 07:46:01 : INFO] - data: {"src":"http:\/\/par4.static.resmush.it\/35b031f45d3249eb42e21eac15bb12d6\/_src_11-1-500x380.jpeg","dest":"http:\/\/par4.static.resmush.it\/35b031f45d3249eb42e21eac15bb12d6\/11-1-500x380.jpeg","src_size":44861,"dest_size":42729,"percent":5,"output":"json","expires":"Wed, 17 Nov 2021 08:50:56 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-11-17 07:46:01 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:46:01 : INFO] - 100 
+[2021-11-17 07:46:02 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : November 17, 2021 07:38:49 
+[2021-11-17 07:46:02 : INFO] - 100 
+[2021-11-17 07:46:04 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/11-1.jpeg.The file was compressed from 773.65 KB to 718.42 KB saving 7.14 percent using WP-Optimize 
+[2021-11-17 07:46:04 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2021-11-17 07:46:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:46:04 
+[2021-11-17 07:46:04 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2021-11-17 07:46:04 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : November 17, 2021 07:39:56 
+[2021-11-17 07:46:04 : INFO] - 100 
+[2021-11-17 07:46:05 : INFO] - Backing up the original image - 2021/11/images-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:46:05 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : November 17, 2021 07:39:56 
+[2021-11-17 07:46:05 : INFO] - 100 
+[2021-11-17 07:46:07 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : November 17, 2021 07:39:56 
+[2021-11-17 07:46:07 : INFO] - 100 
+[2021-11-17 07:46:07 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/images.jpeg.The file was compressed from 7.15 KB to 7.15 KB saving 0 percent using WP-Optimize 
+[2021-11-17 07:46:07 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2021-11-17 07:46:07 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2021-11-17 07:46:07 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : November 17, 2021 07:40:07 
+[2021-11-17 07:46:07 : INFO] - 100 
+[2021-11-17 07:46:11 : INFO] - Backing up the original image - 2021/11/cropped-images-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:46:11 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : November 17, 2021 07:40:07 
+[2021-11-17 07:46:11 : INFO] - 100 
+[2021-11-17 07:46:12 : INFO] - Re_Smush_It_Task with attachment ID : 436, autocreated on : November 17, 2021 07:40:07 
+[2021-11-17 07:46:12 : INFO] - 100 
+[2021-11-17 07:46:13 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-images.jpeg.The file was compressed from 7.68 KB to 7.24 KB saving 5.77 percent using WP-Optimize 
+[2021-11-17 07:46:13 : INFO] - Completed processing task with ID : 131, and type 'smush' 
+[2021-11-17 07:46:13 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2021-11-17 07:46:13 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:13 : INFO] - 100 
+[2021-11-17 07:46:16 : INFO] - Backing up the original image - 2021/11/newsletter_background_web1-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:46:16 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:16 : INFO] - 100 
+[2021-11-17 07:46:18 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:18 : INFO] - 100 
+[2021-11-17 07:46:19 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:19 : INFO] - 100 
+[2021-11-17 07:46:20 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:20 : INFO] - 100 
+[2021-11-17 07:46:22 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:22 : INFO] - 100 
+[2021-11-17 07:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:24 : INFO] - 100 
+[2021-11-17 07:46:26 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:26 : INFO] - 100 
+[2021-11-17 07:46:27 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:27 : INFO] - 100 
+[2021-11-17 07:46:28 : INFO] - Re_Smush_It_Task with attachment ID : 437, autocreated on : November 17, 2021 07:40:46 
+[2021-11-17 07:46:28 : INFO] - 100 
+[2021-11-17 07:46:29 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/newsletter_background_web1.jpeg.The file was compressed from 369.99 KB to 361.48 KB saving 2.3 percent using WP-Optimize 
+[2021-11-17 07:46:29 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2021-11-17 07:46:29 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:46:29 
+[2021-11-17 07:46:29 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2021-11-17 07:46:29 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:29 : INFO] - 100 
+[2021-11-17 07:46:31 : INFO] - Backing up the original image - 2021/11/cropped-newsletter_background_web1-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:46:31 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:31 : INFO] - 100 
+[2021-11-17 07:46:32 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:32 : INFO] - 100 
+[2021-11-17 07:46:33 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:33 : INFO] - 100 
+[2021-11-17 07:46:34 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:34 : INFO] - 100 
+[2021-11-17 07:46:35 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:35 : INFO] - 100 
+[2021-11-17 07:46:38 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:38 : INFO] - 100 
+[2021-11-17 07:46:42 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:42 : INFO] - 100 
+[2021-11-17 07:46:43 : INFO] - Re_Smush_It_Task with attachment ID : 438, autocreated on : November 17, 2021 07:41:07 
+[2021-11-17 07:46:43 : INFO] - 100 
+[2021-11-17 07:46:43 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-newsletter_background_web1.jpeg.The file was compressed from 152.36 KB to 147.39 KB saving 3.26 percent using WP-Optimize 
+[2021-11-17 07:46:43 : INFO] - Completed processing task with ID : 133, and type 'smush' 
+[2021-11-17 07:46:43 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2021-11-17 07:46:43 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:43 : INFO] - 100 
+[2021-11-17 07:46:45 : INFO] - Backing up the original image - 2021/11/cropped-e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-2-updraft-pre-smush-original.jpeg 
+[2021-11-17 07:46:45 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:45 : INFO] - 100 
+[2021-11-17 07:46:46 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:46 : INFO] - 100 
+[2021-11-17 07:46:47 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:47 : INFO] - 100 
+[2021-11-17 07:46:48 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:48 : INFO] - 100 
+[2021-11-17 07:46:50 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:50 : INFO] - 100 
+[2021-11-17 07:46:51 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:51 : INFO] - 100 
+[2021-11-17 07:46:52 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:52 : INFO] - 100 
+[2021-11-17 07:46:53 : INFO] - Re_Smush_It_Task with attachment ID : 439, autocreated on : November 17, 2021 07:41:33 
+[2021-11-17 07:46:53 : INFO] - 100 
+[2021-11-17 07:46:54 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-e21751d2-bf2c-4bfe-ba26-846a5d5d1c27-2.jpeg.The file was compressed from 165.41 KB to 160.36 KB saving 3.05 percent using WP-Optimize 
+[2021-11-17 07:46:54 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2021-11-17 07:46:54 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:46:54 
+[2021-11-17 07:46:54 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:46:54 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:46:54 : INFO] - Successfully processed the queue (smush). 9 tasks were processed out of 9. 
+[2021-11-17 07:46:54 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:46:54 : INFO] - Cleaning up tasks of type (smush). A total of 16 tasks will be deleted. 
+[2021-11-17 07:52:50 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:04 : INFO] - 
+ 
+[2021-11-17 07:55:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 07:55:04 +0000 on https://mattwestcott.com 
+[2021-11-17 07:55:04 : INFO] - WP: 5.8.2 
+[2021-11-17 07:55:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 07:55:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 07:55:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 07:55:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 07:55:04 : INFO] - Outbound connections: N 
+[2021-11-17 07:55:04 : INFO] - safe_mode: 0 
+[2021-11-17 07:55:04 : INFO] - max_execution_time: 30 
+[2021-11-17 07:55:04 : INFO] - memory_limit: 256M (used: 18.6M | 2M) 
+[2021-11-17 07:55:04 : INFO] - multisite: N 
+[2021-11-17 07:55:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 07:55:04 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 07:55:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:55:04 
+[2021-11-17 07:55:04 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 07:55:04 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2021-11-17 07:55:04 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:04 : INFO] - 100 
+[2021-11-17 07:55:11 : INFO] - Backing up the original image - 2021/11/Owl-updraft-pre-smush-original.jpg 
+[2021-11-17 07:55:11 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:11 : INFO] - 100 
+[2021-11-17 07:55:12 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:12 : INFO] - 100 
+[2021-11-17 07:55:17 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:17 : INFO] - 100 
+[2021-11-17 07:55:21 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:21 : INFO] - 100 
+[2021-11-17 07:55:24 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:24 : INFO] - 100 
+[2021-11-17 07:55:27 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:27 : INFO] - 100 
+[2021-11-17 07:55:31 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:31 : INFO] - 100 
+[2021-11-17 07:55:33 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:33 : INFO] - 100 
+[2021-11-17 07:55:36 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:36 : INFO] - 100 
+[2021-11-17 07:55:37 : INFO] - Re_Smush_It_Task with attachment ID : 445, autocreated on : November 17, 2021 07:52:50 
+[2021-11-17 07:55:37 : INFO] - 100 
+[2021-11-17 07:55:38 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/Owl.jpg.The file was compressed from 1.41 MB to 1.37 MB saving 2.72 percent using WP-Optimize 
+[2021-11-17 07:55:38 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2021-11-17 07:55:38 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 07:55:38 
+[2021-11-17 07:55:38 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 07:55:38 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 07:55:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-17 07:55:38 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 07:55:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-17 08:05:04 : INFO] - 
+ 
+[2021-11-17 08:05:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 08:05:04 +0000 on https://mattwestcott.com 
+[2021-11-17 08:05:04 : INFO] - WP: 5.8.2 
+[2021-11-17 08:05:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 08:05:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 08:05:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 08:05:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 08:05:04 : INFO] - Outbound connections: N 
+[2021-11-17 08:05:04 : INFO] - safe_mode: 0 
+[2021-11-17 08:05:04 : INFO] - max_execution_time: 30 
+[2021-11-17 08:05:04 : INFO] - memory_limit: 256M (used: 18.4M | 20M) 
+[2021-11-17 08:05:04 : INFO] - multisite: N 
+[2021-11-17 08:05:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 08:05:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-17 08:38:18 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:38:31 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:41:58 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:42:12 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:43:21 : INFO] - 
+ 
+[2021-11-17 08:43:21 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 08:43:21 +0000 on https://mattwestcott.com 
+[2021-11-17 08:43:21 : INFO] - WP: 5.8.2 
+[2021-11-17 08:43:21 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 08:43:21 : INFO] - MySQL: 5.5.5 
+[2021-11-17 08:43:21 : INFO] - WPLANG: en_AU 
+[2021-11-17 08:43:21 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 08:43:21 : INFO] - Outbound connections: N 
+[2021-11-17 08:43:21 : INFO] - safe_mode: 0 
+[2021-11-17 08:43:21 : INFO] - max_execution_time: 30 
+[2021-11-17 08:43:21 : INFO] - memory_limit: 256M (used: 18.6M | 20M) 
+[2021-11-17 08:43:21 : INFO] - multisite: N 
+[2021-11-17 08:43:21 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 08:43:21 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 08:43:21 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:43:21 
+[2021-11-17 08:43:21 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 08:43:21 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2021-11-17 08:43:21 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:21 : INFO] - 100 
+[2021-11-17 08:43:23 : INFO] - Backing up the original image - 2021/11/image-scaled-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:23 : INFO] - 100 
+[2021-11-17 08:43:24 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:24 : INFO] - 100 
+[2021-11-17 08:43:28 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:28 : INFO] - 100 
+[2021-11-17 08:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:29 : INFO] - 100 
+[2021-11-17 08:43:31 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:31 : INFO] - 100 
+[2021-11-17 08:43:33 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:33 : INFO] - 100 
+[2021-11-17 08:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:34 : INFO] - 100 
+[2021-11-17 08:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:37 : INFO] - 100 
+[2021-11-17 08:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:38 : INFO] - 100 
+[2021-11-17 08:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 459, autocreated on : November 17, 2021 08:38:18 
+[2021-11-17 08:43:38 : INFO] - 100 
+[2021-11-17 08:43:39 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/image-scaled.jpeg.The file was compressed from 282.81 KB to 275.47 KB saving 2.59 percent using WP-Optimize 
+[2021-11-17 08:43:39 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2021-11-17 08:43:39 : INFO] - Processing task with ID : 137, and type 'smush' 
+[2021-11-17 08:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:39 : INFO] - 100 
+[2021-11-17 08:43:41 : INFO] - Backing up the original image - 2021/11/cropped-image-scaled-8-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:43:41 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:41 : INFO] - 100 
+[2021-11-17 08:43:42 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:42 : INFO] - 100 
+[2021-11-17 08:43:43 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:43 : INFO] - 100 
+[2021-11-17 08:43:47 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:47 : INFO] - 100 
+[2021-11-17 08:43:48 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:48 : INFO] - 100 
+[2021-11-17 08:43:54 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:54 : INFO] - 100 
+[2021-11-17 08:43:55 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:55 : INFO] - 100 
+[2021-11-17 08:43:56 : INFO] - Re_Smush_It_Task with attachment ID : 460, autocreated on : November 17, 2021 08:38:31 
+[2021-11-17 08:43:56 : INFO] - 100 
+[2021-11-17 08:43:59 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-image-scaled-8.jpeg.The file was compressed from 83.69 KB to 81.12 KB saving 3.07 percent using WP-Optimize 
+[2021-11-17 08:43:59 : INFO] - Completed processing task with ID : 137, and type 'smush' 
+[2021-11-17 08:43:59 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:43:59 
+[2021-11-17 08:43:59 : INFO] - Processing task with ID : 138, and type 'smush' 
+[2021-11-17 08:43:59 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:43:59 : INFO] - 100 
+[2021-11-17 08:44:02 : INFO] - Backing up the original image - 2021/11/sctp0142-cherry-blossom-tokyo-japan-chidorigafuchi-quiapo00027-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:02 : INFO] - 100 
+[2021-11-17 08:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:02 : INFO] - 100 
+[2021-11-17 08:44:03 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:03 : INFO] - 100 
+[2021-11-17 08:44:05 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:05 : INFO] - 100 
+[2021-11-17 08:44:07 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:07 : INFO] - 100 
+[2021-11-17 08:44:09 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:09 : INFO] - 100 
+[2021-11-17 08:44:14 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:14 : INFO] - 100 
+[2021-11-17 08:44:18 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:18 : INFO] - 100 
+[2021-11-17 08:44:19 : INFO] - Re_Smush_It_Task with attachment ID : 462, autocreated on : November 17, 2021 08:41:58 
+[2021-11-17 08:44:19 : INFO] - 100 
+[2021-11-17 08:44:20 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/sctp0142-cherry-blossom-tokyo-japan-chidorigafuchi-quiapo00027.jpeg.The file was compressed from 212.30 KB to 212.30 KB saving 0 percent using WP-Optimize 
+[2021-11-17 08:44:20 : INFO] - Completed processing task with ID : 138, and type 'smush' 
+[2021-11-17 08:44:20 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:44:20 
+[2021-11-17 08:44:20 : INFO] - Processing task with ID : 139, and type 'smush' 
+[2021-11-17 08:44:20 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:20 : INFO] - 100 
+[2021-11-17 08:44:22 : INFO] - Backing up the original image - 2021/11/cropped-sctp0142-cherry-blossom-tokyo-japan-chidorigafuchi-quiapo00027-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:44:22 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:22 : INFO] - 100 
+[2021-11-17 08:44:22 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:22 : INFO] - 100 
+[2021-11-17 08:44:23 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:23 : INFO] - 100 
+[2021-11-17 08:44:24 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:24 : INFO] - 100 
+[2021-11-17 08:44:25 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:25 : INFO] - 100 
+[2021-11-17 08:44:27 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:27 : INFO] - 100 
+[2021-11-17 08:44:30 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:30 : INFO] - 100 
+[2021-11-17 08:44:31 : INFO] - Re_Smush_It_Task with attachment ID : 463, autocreated on : November 17, 2021 08:42:11 
+[2021-11-17 08:44:31 : INFO] - 100 
+[2021-11-17 08:44:31 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-sctp0142-cherry-blossom-tokyo-japan-chidorigafuchi-quiapo00027.jpeg.The file was compressed from 89.84 KB to 87.95 KB saving 2.1 percent using WP-Optimize 
+[2021-11-17 08:44:31 : INFO] - Completed processing task with ID : 139, and type 'smush' 
+[2021-11-17 08:44:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 08:44:31 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 08:44:31 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-11-17 08:44:31 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 08:44:31 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-11-17 08:47:35 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:48:53 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:50:06 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:50:14 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:04 : INFO] - 
+ 
+[2021-11-17 08:55:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 08:55:04 +0000 on https://mattwestcott.com 
+[2021-11-17 08:55:04 : INFO] - WP: 5.8.2 
+[2021-11-17 08:55:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 08:55:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 08:55:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 08:55:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 08:55:04 : INFO] - Outbound connections: N 
+[2021-11-17 08:55:04 : INFO] - safe_mode: 0 
+[2021-11-17 08:55:04 : INFO] - max_execution_time: 30 
+[2021-11-17 08:55:04 : INFO] - memory_limit: 256M (used: 18.4M | 20M) 
+[2021-11-17 08:55:04 : INFO] - multisite: N 
+[2021-11-17 08:55:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 08:55:04 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-11-17 08:55:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:55:04 
+[2021-11-17 08:55:04 : INFO] - Semaphore lock (smush) complete 
+[2021-11-17 08:55:04 : INFO] - Processing task with ID : 140, and type 'smush' 
+[2021-11-17 08:55:04 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:04 : INFO] - 100 
+[2021-11-17 08:55:09 : INFO] - Backing up the original image - 2021/11/2185257_m-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:55:09 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:09 : INFO] - 100 
+[2021-11-17 08:55:10 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:10 : INFO] - 100 
+[2021-11-17 08:55:14 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:14 : INFO] - 100 
+[2021-11-17 08:55:15 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:15 : INFO] - 100 
+[2021-11-17 08:55:17 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:17 : INFO] - 100 
+[2021-11-17 08:55:18 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:18 : INFO] - 100 
+[2021-11-17 08:55:21 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:21 : INFO] - 100 
+[2021-11-17 08:55:22 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:22 : INFO] - 100 
+[2021-11-17 08:55:23 : INFO] - Re_Smush_It_Task with attachment ID : 467, autocreated on : November 17, 2021 08:47:35 
+[2021-11-17 08:55:23 : INFO] - 100 
+[2021-11-17 08:55:27 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/2185257_m.jpeg.The file was compressed from 1.41 MB to 1.31 MB saving 7.52 percent using WP-Optimize 
+[2021-11-17 08:55:27 : INFO] - Completed processing task with ID : 140, and type 'smush' 
+[2021-11-17 08:55:27 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:55:27 
+[2021-11-17 08:55:27 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2021-11-17 08:55:27 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:27 : INFO] - 100 
+[2021-11-17 08:55:30 : INFO] - Backing up the original image - 2021/11/2185257_m-1-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:55:30 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:30 : INFO] - 100 
+[2021-11-17 08:55:31 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:31 : INFO] - 100 
+[2021-11-17 08:55:33 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:33 : INFO] - 100 
+[2021-11-17 08:55:34 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:34 : INFO] - 100 
+[2021-11-17 08:55:36 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:36 : INFO] - 100 
+[2021-11-17 08:55:37 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:37 : INFO] - 100 
+[2021-11-17 08:55:38 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:38 : INFO] - 100 
+[2021-11-17 08:55:39 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:39 : INFO] - 100 
+[2021-11-17 08:55:41 : INFO] - Re_Smush_It_Task with attachment ID : 469, autocreated on : November 17, 2021 08:48:53 
+[2021-11-17 08:55:41 : INFO] - 100 
+[2021-11-17 08:55:42 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/2185257_m-1.jpeg.The file was compressed from 1.00 MB to 965.58 KB saving 6.07 percent using WP-Optimize 
+[2021-11-17 08:55:42 : INFO] - Completed processing task with ID : 141, and type 'smush' 
+[2021-11-17 08:55:42 : INFO] - Processing task with ID : 142, and type 'smush' 
+[2021-11-17 08:55:42 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:42 : INFO] - 100 
+[2021-11-17 08:55:45 : INFO] - Backing up the original image - 2021/11/2185257_m-2-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:55:45 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:45 : INFO] - 100 
+[2021-11-17 08:55:46 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:46 : INFO] - 100 
+[2021-11-17 08:55:46 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:46 : INFO] - 100 
+[2021-11-17 08:55:47 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:47 : INFO] - 100 
+[2021-11-17 08:55:49 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:49 : INFO] - 100 
+[2021-11-17 08:55:51 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:51 : INFO] - 100 
+[2021-11-17 08:55:52 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:52 : INFO] - 100 
+[2021-11-17 08:55:53 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:53 : INFO] - 100 
+[2021-11-17 08:55:55 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : November 17, 2021 08:50:06 
+[2021-11-17 08:55:55 : INFO] - 100 
+[2021-11-17 08:55:55 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/2185257_m-2.jpeg.The file was compressed from 857.28 KB to 801.16 KB saving 6.55 percent using WP-Optimize 
+[2021-11-17 08:55:55 : INFO] - Completed processing task with ID : 142, and type 'smush' 
+[2021-11-17 08:55:55 : INFO] - Set semaphore last lock (smush) time to 2021-11-17 08:55:55 
+[2021-11-17 08:55:55 : INFO] - Processing task with ID : 143, and type 'smush' 
+[2021-11-17 08:55:55 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:55 : INFO] - 100 
+[2021-11-17 08:55:57 : INFO] - Backing up the original image - 2021/11/cropped-2185257_m-2-updraft-pre-smush-original.jpeg 
+[2021-11-17 08:55:57 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:57 : INFO] - 100 
+[2021-11-17 08:55:58 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:58 : INFO] - 100 
+[2021-11-17 08:55:58 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:58 : INFO] - 100 
+[2021-11-17 08:55:59 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:55:59 : INFO] - 100 
+[2021-11-17 08:56:01 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:56:01 : INFO] - 100 
+[2021-11-17 08:56:02 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:56:02 : INFO] - 100 
+[2021-11-17 08:56:03 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:56:03 : INFO] - 100 
+[2021-11-17 08:56:04 : INFO] - Re_Smush_It_Task with attachment ID : 471, autocreated on : November 17, 2021 08:50:14 
+[2021-11-17 08:56:04 : INFO] - 100 
+[2021-11-17 08:56:04 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-2185257_m-2.jpeg.The file was compressed from 90.81 KB to 87.55 KB saving 3.59 percent using WP-Optimize 
+[2021-11-17 08:56:04 : INFO] - Completed processing task with ID : 143, and type 'smush' 
+[2021-11-17 08:56:04 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-17 08:56:04 : INFO] - Semaphore (smush) unlocked 
+[2021-11-17 08:56:04 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-11-17 08:56:04 : INFO] - Semaphore (smush, mattwestcott_options) was successfully cleaned up 
+[2021-11-17 08:56:04 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-11-17 09:05:04 : INFO] - 
+ 
+[2021-11-17 09:05:04 : INFO] - Header for logs at time:  Wed, 17 Nov 2021 09:05:04 +0000 on https://mattwestcott.com 
+[2021-11-17 09:05:04 : INFO] - WP: 5.8.2 
+[2021-11-17 09:05:04 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2021-11-17 09:05:04 : INFO] - MySQL: 5.5.5 
+[2021-11-17 09:05:04 : INFO] - WPLANG: en_AU 
+[2021-11-17 09:05:04 : INFO] - Server: nginx/1.19.3 
+[2021-11-17 09:05:04 : INFO] - Outbound connections: N 
+[2021-11-17 09:05:04 : INFO] - safe_mode: 0 
+[2021-11-17 09:05:04 : INFO] - max_execution_time: 30 
+[2021-11-17 09:05:04 : INFO] - memory_limit: 256M (used: 18.4M | 20M) 
+[2021-11-17 09:05:04 : INFO] - multisite: N 
+[2021-11-17 09:05:04 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2021-11-17 09:05:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-01-06 03:21:47 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:05 : INFO] - 
+ 
+[2022-01-06 03:28:05 : INFO] - Header for logs at time:  Thu, 06 Jan 2022 03:28:05 +0000 on https://mattwestcott.com 
+[2022-01-06 03:28:05 : INFO] - WP: 5.8.2 
+[2022-01-06 03:28:05 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2022-01-06 03:28:05 : INFO] - MySQL: 5.5.5 
+[2022-01-06 03:28:05 : INFO] - WPLANG: en_AU 
+[2022-01-06 03:28:05 : INFO] - Server: nginx/1.19.3 
+[2022-01-06 03:28:05 : INFO] - Outbound connections: N 
+[2022-01-06 03:28:05 : INFO] - safe_mode: 0 
+[2022-01-06 03:28:05 : INFO] - max_execution_time: 30 
+[2022-01-06 03:28:05 : INFO] - memory_limit: 256M (used: 17.9M | 20M) 
+[2022-01-06 03:28:05 : INFO] - multisite: N 
+[2022-01-06 03:28:05 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2022-01-06 03:28:05 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-01-06 03:28:05 : DEBUG] - Lock option (updraft_lock_smush, mattwestcott_options) was created in the database 
+[2022-01-06 03:28:05 : INFO] - Lock (updraft_lock_smush, mattwestcott_options) acquired after initialising the database 
+[2022-01-06 03:28:05 : INFO] - Processing task with ID : 144, and type 'smush' 
+[2022-01-06 03:28:05 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:05 : INFO] - 100 
+[2022-01-06 03:28:09 : INFO] - Backing up the original image - 2020/07/surfing-updraft-pre-smush-original.jpg 
+[2022-01-06 03:28:09 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:09 : INFO] - 100 
+[2022-01-06 03:28:11 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:11 : INFO] - 100 
+[2022-01-06 03:28:11 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:11 : INFO] - 100 
+[2022-01-06 03:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:14 : INFO] - 100 
+[2022-01-06 03:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:17 : INFO] - 100 
+[2022-01-06 03:28:19 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:19 : INFO] - 100 
+[2022-01-06 03:28:22 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:22 : INFO] - 100 
+[2022-01-06 03:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : January 06, 2022 03:21:47 
+[2022-01-06 03:28:23 : INFO] - 100 
+[2022-01-06 03:28:24 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2020/07/surfing.jpg.The file was compressed from 256.55 KB to 256.55 KB saving 0 percent using WP-Optimize 
+[2022-01-06 03:28:24 : INFO] - Completed processing task with ID : 144, and type 'smush' 
+[2022-01-06 03:28:24 : INFO] - Lock option (updraft_lock_smush, mattwestcott_options) released 
+[2022-01-06 03:28:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-01-06 03:28:24 : INFO] - Lock option (updraft_lock_smush, mattwestcott_options) was deleted from the database 
+[2022-01-06 03:28:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-01-06 03:38:16 : INFO] - 
+ 
+[2022-01-06 03:38:16 : INFO] - Header for logs at time:  Thu, 06 Jan 2022 03:38:16 +0000 on https://mattwestcott.com 
+[2022-01-06 03:38:16 : INFO] - WP: 5.8.2 
+[2022-01-06 03:38:16 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2022-01-06 03:38:16 : INFO] - MySQL: 5.5.5 
+[2022-01-06 03:38:16 : INFO] - WPLANG: en_AU 
+[2022-01-06 03:38:16 : INFO] - Server: nginx/1.19.3 
+[2022-01-06 03:38:16 : INFO] - Outbound connections: N 
+[2022-01-06 03:38:16 : INFO] - safe_mode: 0 
+[2022-01-06 03:38:16 : INFO] - max_execution_time: 30 
+[2022-01-06 03:38:16 : INFO] - memory_limit: 256M (used: 17.9M | 20M) 
+[2022-01-06 03:38:16 : INFO] - multisite: N 
+[2022-01-06 03:38:16 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2022-01-06 03:38:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-01-06 05:29:10 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:11 : INFO] - 
+ 
+[2022-01-06 05:38:11 : INFO] - Header for logs at time:  Thu, 06 Jan 2022 05:38:11 +0000 on https://mattwestcott.com 
+[2022-01-06 05:38:11 : INFO] - WP: 5.8.2 
+[2022-01-06 05:38:11 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2022-01-06 05:38:11 : INFO] - MySQL: 5.5.5 
+[2022-01-06 05:38:11 : INFO] - WPLANG: en_AU 
+[2022-01-06 05:38:11 : INFO] - Server: nginx/1.19.3 
+[2022-01-06 05:38:11 : INFO] - Outbound connections: N 
+[2022-01-06 05:38:11 : INFO] - safe_mode: 0 
+[2022-01-06 05:38:11 : INFO] - max_execution_time: 30 
+[2022-01-06 05:38:11 : INFO] - memory_limit: 256M (used: 18M | 20M) 
+[2022-01-06 05:38:11 : INFO] - multisite: N 
+[2022-01-06 05:38:11 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2022-01-06 05:38:11 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-01-06 05:38:11 : DEBUG] - Lock option (updraft_lock_smush, mattwestcott_options) was created in the database 
+[2022-01-06 05:38:11 : INFO] - Lock (updraft_lock_smush, mattwestcott_options) acquired after initialising the database 
+[2022-01-06 05:38:11 : INFO] - Processing task with ID : 145, and type 'smush' 
+[2022-01-06 05:38:11 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:11 : INFO] - 100 
+[2022-01-06 05:38:14 : INFO] - Backing up the original image - 2021/11/cropped-Cartoon-updraft-pre-smush-original.png 
+[2022-01-06 05:38:14 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:14 : INFO] - 100 
+[2022-01-06 05:38:18 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:18 : INFO] - 100 
+[2022-01-06 05:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:19 : INFO] - 100 
+[2022-01-06 05:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:22 : INFO] - 100 
+[2022-01-06 05:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:23 : INFO] - 100 
+[2022-01-06 05:38:25 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:25 : INFO] - 100 
+[2022-01-06 05:38:27 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:27 : INFO] - 100 
+[2022-01-06 05:38:29 : INFO] - Re_Smush_It_Task with attachment ID : 483, autocreated on : January 06, 2022 05:29:10 
+[2022-01-06 05:38:29 : INFO] - 100 
+[2022-01-06 05:38:30 : INFO] - Successfully optimized the image - /home/runcloud/webapps/mattwestcott/wp-content/uploads/2021/11/cropped-Cartoon.png.The file was compressed from 399.23 KB to 164.29 KB saving 58.85 percent using WP-Optimize 
+[2022-01-06 05:38:30 : INFO] - Completed processing task with ID : 145, and type 'smush' 
+[2022-01-06 05:38:30 : INFO] - Lock option (updraft_lock_smush, mattwestcott_options) released 
+[2022-01-06 05:38:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-01-06 05:38:30 : INFO] - Lock option (updraft_lock_smush, mattwestcott_options) was deleted from the database 
+[2022-01-06 05:38:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-01-06 05:49:03 : INFO] - 
+ 
+[2022-01-06 05:49:03 : INFO] - Header for logs at time:  Thu, 06 Jan 2022 05:49:03 +0000 on https://mattwestcott.com 
+[2022-01-06 05:49:03 : INFO] - WP: 5.8.2 
+[2022-01-06 05:49:03 : INFO] - PHP: 7.4.23 (fpm-fcgi, Linux bunnikins-sgp-01-production 5.4.0-89-generic #100-Ubuntu SMP Fri Sep 24 14:50:10 UTC 2021 x86_64) 
+[2022-01-06 05:49:03 : INFO] - MySQL: 5.5.5 
+[2022-01-06 05:49:03 : INFO] - WPLANG: en_AU 
+[2022-01-06 05:49:03 : INFO] - Server: nginx/1.19.3 
+[2022-01-06 05:49:03 : INFO] - Outbound connections: N 
+[2022-01-06 05:49:03 : INFO] - safe_mode: 0 
+[2022-01-06 05:49:03 : INFO] - max_execution_time: 30 
+[2022-01-06 05:49:03 : INFO] - memory_limit: 256M (used: 17.9M | 20M) 
+[2022-01-06 05:49:03 : INFO] - multisite: N 
+[2022-01-06 05:49:03 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2022-01-06 05:49:03 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
